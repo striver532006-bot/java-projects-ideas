@@ -1,6 +1,4 @@
-# Vanilla JS Projects
-
-#### Enroll In The Course
+# JS Projects
 
 [My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
 
